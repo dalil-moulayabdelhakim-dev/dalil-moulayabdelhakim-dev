@@ -13,14 +13,8 @@ Welcome to my GitHub profile!
 
 Here, you can find some of the projects I've been working on:
 
-### Android Projects
-- Soon
-
-### Web Applications
-- Soon
-
-### Arduino Projects
-- Soon
+### Check My portfolio
+- DLPortfolio [dlportfolio.youssi-market.com]
 
 ## Skills
 - **Programming Languages**: Java, JavaScript, HTML, CSS
