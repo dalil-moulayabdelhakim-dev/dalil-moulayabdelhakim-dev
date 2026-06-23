@@ -1,35 +1,46 @@
 # Hi there, I'm Dalil Moulay Abdelhakim 👋
 
-Welcome to my GitHub profile!
+### 🚀 State Engineer in Computer Science | Full-Stack Developer & AI Specialist
 
-## About Me
+Welcome to my GitHub space! I am a passionate Computer Science Engineer dedicated to building robust mobile applications, scalable web systems, and integrating Intelligent Systems (AI & IoT) to solve real-world problems.
 
-- 👀 I’m interested in developing Android and web applications.
-- 🌱 I’m currently learning web development and Arduino programming.
-- 💞️ I’m looking to collaborate on projects related to Google technologies.
-- 📫 You can reach me at: dalil.moulayabdelhakim@gmail.com
+---
 
-## Projects and Contributions
+## 🛠️ Skills & Technologies
 
-Here, you can find some of the projects I've been working on:
+### 💻 Backend & Web Development
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Check My portfolio
-- [DLPortfolio](http://dlportfolio.youssi-market.com)
+### 📱 Mobile & Hardware (IoT)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-## Skills
-- **Programming Languages**: Java, JavaScript, HTML, CSS
-- **Frameworks/Libraries**: Laravel
-- **Tools**: Git, GitHub, Android Studio, Arduino IDE, VSCode
+### 🔧 Tools & Infrastructure
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## Get In Touch
+---
 
-Feel free to reach out to me via email or connect with me on [Instagram](https://www.instagram.com/dl__hakim):
+## 🚀 Featured Projects
 
-- 📧 dalil.moulayabdelhakim@gmail.com
+### 🌐 [DLPortfolio](http://dlportfolio.youssi-market.com)
+> A dynamic portfolio and CV generator system built on top of Laravel, designed to manage professional identities efficiently.
 
-Thank you for visiting my profile!
+*More open-source projects and enterprise systems will be highlighted here soon.*
 
-<!---
-dalil-moulayabdelhakim-dev/dalil-moulayabdelhakim-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 📫 Get In Touch
+
+If you want to collaborate on a project, discuss AI/Web architectures, or just say hi, feel free to reach out:
+
+*   📧 **Email:** [dalil.moulayabdelhakim@gmail.com](mailto:dalil.moulayabdelhakim@gmail.com)
+*   📸 **Instagram:** [@dl__hakim](https://www.instagram.com/dl__hakim)
+
+---
+*Thank you for visiting my profile! Keep coding and building the future.*
