@@ -28,6 +28,18 @@ Welcome to my GitHub space! I am a passionate Computer Science Engineer dedicate
 
 ## 🚀 Featured Projects
 
+### 🛍️ [Youssi Market](https://youssi-market.com)
+> A multi-vendor e-commerce platform localized for Algerian commerce across all 58 provinces.
+
+### 📊 [AMD Tijartek](https://dlportfolio.youssi-market.com/portfolio/2)
+> A professional business management solution tailored for commerce tracking and retail operations.
+
+### 📱 [ADNM: Atini DecheNatik Masrof](https://play.google.com/store/apps/details?id=com.dldevalopement.adnm)
+> A dedicated mobile application built for Android, previously launched on the Google Play Store.
+
+### 🔑 [DL-License Manager](https://dlportfolio.youssi-market.com/portfolio/5)
+> A standalone software licensing and validation system engineered for securing digital products.
+
 ### 🌐 [DLPortfolio](http://dlportfolio.youssi-market.com)
 > A dynamic portfolio and CV generator system built on top of Laravel, designed to manage professional identities efficiently.
 
