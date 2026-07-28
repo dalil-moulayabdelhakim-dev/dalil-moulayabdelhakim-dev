@@ -1,58 +1,97 @@
-# Hi there, I'm Dalil Moulay Abdelhakim 👋
+<div align="center">
 
-### 🚀 State Engineer in Computer Science | Full-Stack Developer & AI Specialist
+  # ⚡ Hi there, I'm Dalil Moulay Abdelhakim 👋
 
-Welcome to my GitHub space! I am a passionate Computer Science Engineer dedicated to building robust mobile applications, scalable web systems, and integrating Intelligent Systems (AI & IoT) to solve real-world problems.
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5D4&center=true&vCenter=true&width=650&lines=State+Engineer+in+Computer+Science+%F0%9F%8D%93;Full-Stack+Developer+%26+AI+Specialist+%F0%9F%92%BB;Mobile+Apps+%26+IoT+Systems+Architect+%F0%9F%93%B1;Building+Scalable+%26+Intelligent+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+
+  <br/><br/>
+
+  [![Email](https://img.shields.io/badge/Email-dalil.moulayabdelhakim%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dalil.moulayabdelhakim@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-DLPortfolio-0070F3?style=for-the-badge&logo=google-chrome&logoColor=white)](http://dlportfolio.youssi-market.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-@dl__hakim-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dl__hakim)
+
+</div>
 
 ---
 
-## 🛠️ Skills & Technologies
+### 👨‍💻 About Me
 
-### 💻 Backend & Web Development
+I am a passionate **Computer Science Engineer** dedicated to engineering high-performance mobile applications, scalable full-stack web platforms, and integrating **Intelligent Systems (AI & IoT)** to solve complex real-world challenges.
+
+* 🎓 **Degree**: State Engineer in Computer Science
+* 💡 **Core Expertise**: Web Systems Architecture, Mobile Engineering, AI Integration, Hardware/IoT Solutions
+* 🌱 **Currently Focused On**: Scalable Cloud Architectures, Embedded Systems & Machine Learning Integration
+
+---
+
+## 🛠️ Tech Stack & Capabilities
+
+<div align="center">
+
+### 💻 Backend & Web Architecture
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 📱 Mobile & Hardware (IoT)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-### 🔧 Tools & Infrastructure
+### 🔧 Tools, DevOps & Environment
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🛍️ [Youssi Market](https://youssi-market.com)
-> A multi-vendor e-commerce platform localized for Algerian commerce across all 58 provinces.
-
-### 📊 [AMD Tijartek](https://dlportfolio.youssi-market.com/portfolio/2)
-> A professional business management solution tailored for commerce tracking and retail operations.
-
-### 📱 [ADNM: Atini DecheNatik Masrof](https://play.google.com/store/apps/details?id=com.dldevalopement.adnm)
-> A dedicated mobile application built for Android, previously launched on the Google Play Store.
-
-### 🔑 [DL-License Manager](https://dlportfolio.youssi-market.com/portfolio/5)
-> A standalone software licensing and validation system engineered for securing digital products.
-
-### 🌐 [DLPortfolio](http://dlportfolio.youssi-market.com)
-> A dynamic portfolio and CV generator system built on top of Laravel, designed to manage professional identities efficiently.
-
-*More open-source projects and enterprise systems will be highlighted here soon.*
+| Project | Description | Stack | Link |
+| :--- | :--- | :---: | :---: |
+| **🛍️ Youssi Market** | Multi-vendor e-commerce platform localized for Algerian commerce across all 58 provinces. | `Laravel` `PHP` `MySQL` | [Visit Site](https://youssi-market.com) |
+| **📊 AMD Tijartek** | Professional business management solution tailored for commerce tracking and retail operations. | `PHP` `Laravel` `Web` | [View Project](https://dlportfolio.youssi-market.com/portfolio/2) |
+| **📱 ADNM (Atini DecheNatik Masrof)** | Mobile application built for Android, launched on Google Play Store. | `Kotlin` `Android` | [Play Store](https://play.google.com/store/apps/details?id=com.dldevalopement.adnm) |
+| **🔑 DL-License Manager** | Standalone software licensing and validation system engineered for securing digital products. | `Python` `Laravel` `Security` | [View System](https://dlportfolio.youssi-market.com/portfolio/5) |
+| **🌐 DLPortfolio** | Dynamic portfolio and CV generator system built on top of Laravel for personal branding. | `Laravel` `PHP` `JS` | [Live Demo](http://dlportfolio.youssi-market.com) |
 
 ---
 
-## 📫 Get In Touch
+## 📊 GitHub Analytics & Activity
 
-If you want to collaborate on a project, discuss AI/Web architectures, or just say hi, feel free to reach out:
+<div align="center">
 
-*   📧 **Email:** [dalil.moulayabdelhakim@gmail.com](mailto:dalil.moulayabdelhakim@gmail.com)
-*   📸 **Instagram:** [@dl__hakim](https://www.instagram.com/dl__hakim)
+  <img src="https://github-readme-stats.vercel.app/api?username=dalil-moulayabdelhakim-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalil-moulayabdelhakim-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+
+  <br/><br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dalil-moulayabdelhakim-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
+
+</div>
 
 ---
-*Thank you for visiting my profile! Keep coding and building the future.*
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+  <img src="https://raw.githubusercontent.com/dalil-moulayabdelhakim-dev/dalil-moulayabdelhakim-dev/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
+
+</div>
+
+---
+
+<div align="center">
+  <sub>Designed & Developed with ❤️ by Dalil Moulay Abdelhakim</sub>
+</div>
