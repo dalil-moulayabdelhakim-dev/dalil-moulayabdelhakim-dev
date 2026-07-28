@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="avatar.png" alt="Scanner Avatar" width="160" />
+  <img src="avatar_scanner.svg" alt="Scanner Avatar" width="160" />
 
   <br/><br/>
 
