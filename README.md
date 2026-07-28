@@ -71,12 +71,12 @@ I am a passionate **Computer Science Engineer** dedicated to engineering high-pe
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=dalil-moulayabdelhakim-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalil-moulayabdelhakim-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://ghstats.dev/api/card?username=dalil-moulayabdelhakim-dev&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  <img src="https://ghstats.dev/api/langs?username=dalil-moulayabdelhakim-dev&theme=tokyonight&layout=compact" alt="Top Languages" width="48%" />
 
   <br/><br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dalil-moulayabdelhakim-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
+  <img src="https://streak-stats.demolab.com/?user=dalil-moulayabdelhakim-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
 
 </div>
 
