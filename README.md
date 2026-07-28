@@ -1,5 +1,9 @@
 <div align="center">
 
+  <img src="avatar.png" alt="Scanner Avatar" width="160" />
+
+  <br/><br/>
+
   # ⚡ Hi there, I'm Dalil Moulay Abdelhakim 👋
 
   <a href="https://git.io/typing-svg">
@@ -82,7 +86,7 @@ I am a passionate **Computer Science Engineer** dedicated to engineering high-pe
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 My Contribution
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dalil-moulayabdelhakim-dev/dalil-moulayabdelhakim-dev/output/github-contribution-grid-snake-dark.svg" />
